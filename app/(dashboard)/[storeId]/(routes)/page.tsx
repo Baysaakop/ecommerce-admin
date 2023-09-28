@@ -15,7 +15,7 @@ const DashboardPage: React.FC<DashboardPageProps> = async ({
 
     return (
         <div>
-            ACtive Store: {store?.name}
+            Active Store: {store?.name}
         </div>
     );
 }
